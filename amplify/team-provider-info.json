@@ -9,6 +9,11 @@
             "UnauthRoleName": "autobranchdeployment-master-20190724105541-unauthRole",
             "StackName": "autobranchdeployment-master-20190724105541",
             "StackId": "arn:aws:cloudformation:us-east-1:781155362072:stack/autobranchdeployment-master-20190724105541/41358c90-ae3c-11e9-be2f-0a0bad6f0bfa"
+        },
+        "categories": {
+            "auth": {
+                "autobranchdeploymenta41e4cc9": {}
+            }
         }
     }
 }

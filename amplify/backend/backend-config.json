@@ -1,1 +1,9 @@
-{}
+{
+	"auth": {
+		"autobranchdeploymenta41e4cc9": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
