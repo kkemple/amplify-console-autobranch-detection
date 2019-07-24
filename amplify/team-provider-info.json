@@ -1,0 +1,14 @@
+{
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "autobranchdeployment-master-20190724105541-authRole",
+            "UnauthRoleArn": "arn:aws:iam::781155362072:role/autobranchdeployment-master-20190724105541-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::781155362072:role/autobranchdeployment-master-20190724105541-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "autobranchdeployment-master-20190724105541-deployment",
+            "UnauthRoleName": "autobranchdeployment-master-20190724105541-unauthRole",
+            "StackName": "autobranchdeployment-master-20190724105541",
+            "StackId": "arn:aws:cloudformation:us-east-1:781155362072:stack/autobranchdeployment-master-20190724105541/41358c90-ae3c-11e9-be2f-0a0bad6f0bfa"
+        }
+    }
+}
